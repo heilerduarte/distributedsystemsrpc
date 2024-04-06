@@ -1,0 +1,14 @@
+async-timeout==4.0.3
+cffi==1.16.0
+cryptography==42.0.5
+graphviz==0.20.1
+ifaddr==0.2.0
+plumbum==1.8.2
+pycparser==2.21
+Pyro4==4.82
+Pyro5==5.15
+pyzmq==25.1.2
+rpyc==6.0.0
+serpent==1.41
+tk==0.1.0
+zeroconf==0.131.0
